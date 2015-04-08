@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "Blank Tab",
+	"description": "A blank page for new tabs.",
+	"version": "0.0.1",
+	"chrome_url_overrides" : { "newtab": "newtab.html" },
+	"icons": {
+		"16": "icon-16.png",
+		"128": "icon-128.png"
+	}
+}
