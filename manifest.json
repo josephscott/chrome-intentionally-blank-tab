@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Blank Tab",
+	"name": "Intentionally Blank Tab",
 	"description": "A blank page for new tabs.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"chrome_url_overrides" : { "newtab": "newtab.html" },
 	"icons": {
 		"16": "icon-16.png",
